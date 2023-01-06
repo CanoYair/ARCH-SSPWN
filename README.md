@@ -1,2 +1,1 @@
-# ARCH-SSPWN
-SCRIPTS ARHCLINUX
+arch-bss
